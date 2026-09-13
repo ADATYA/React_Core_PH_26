@@ -8,7 +8,7 @@ A simple and interactive **Dev Stack Builder** built with React.
 Users can explore different web development technologies and add their favorite technologies to their own stack.
 
 ## 🌐 Live Project
-
+** How to use <i>netlify</i> to deploy project show this video:
 > https://assignment05phb142026.netlify.app/
 
 ## 📌 About The Project
